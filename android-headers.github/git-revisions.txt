@@ -1,0 +1,20 @@
+================================================
+hardware/libhardware @ Wed Oct 21 05:39:55 CST 2015
+================================================
+WARNING: hardware/libhardware does not contain a Git repository
+================================================
+hardware/libhardware_legacy @ Wed Oct 21 05:39:55 CST 2015
+================================================
+WARNING: hardware/libhardware_legacy does not contain a Git repository
+================================================
+system/core @ Wed Oct 21 05:39:55 CST 2015
+================================================
+WARNING: system/core does not contain a Git repository
+================================================
+external/libnfc-nxp @ Wed Oct 21 05:39:55 CST 2015
+================================================
+WARNING: external/libnfc-nxp does not contain a Git repository
+================================================
+external/linux-headers @ Wed Oct 21 05:39:55 CST 2015
+================================================
+WARNING: external/linux-headers does not contain a Git repository
